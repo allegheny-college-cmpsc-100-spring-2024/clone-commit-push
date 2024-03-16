@@ -1,6 +1,6 @@
 # Clone Commit Push
 
-In this assignment, we will install Git and SSH on your computer so you are working toward industry-standard software development. You can find the relevant lecture content [here](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/README.md).
+In this assignment, we will install Git and SSH on your computer so you are working toward industry-standard software development. You can find the relevant lecture content [here](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/README.md#git--github-319).
 
 **CLOS**: This assignment includes experience using industry-standard development tools and builds toward [learning outcome  SP.2](https://github.com/allegheny-college-cmpsc-100-spring-2024/course-materials?tab=readme-ov-file#learning-outcomes).
 
