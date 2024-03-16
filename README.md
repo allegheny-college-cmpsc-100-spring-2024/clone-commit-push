@@ -31,6 +31,8 @@ See [this link](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) f
 
 ## Step Three | Write a story in VSCode and push it to GitHub
 
+You can follow [this video demo](https://drive.google.com/file/d/1bTXvftVQtvPRS-oC1Ky67Xh9WS4yTmfC/view) in completing step three. Just be sure to write your own story! 
+
 1. Open your `CMPSC-100` folder in VSCode.
 
 2. Copy the clone link for this repo by clicking the \<Code\> dropdown just above the list of files, then choose SSH and hit the double-square copy icon.
