@@ -1,0 +1,13 @@
+# BASE DIR
+- ./:
+  - STORY.md:
+    - description: Delete body text in STORY.md
+      check: MatchFileFragment
+      options:
+        fragment: Delete this text
+        count: 0
+        exact: true
+    - description: Write a 20+ word short story in STORY.md
+      check: CountFileWords
+      options:
+        count: 20
