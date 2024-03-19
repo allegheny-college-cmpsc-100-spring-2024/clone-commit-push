@@ -16,7 +16,7 @@ on:
 # does the build run in the other repo?
 jobs:
   show-grade:
-    uses: allegheny-college-cmpsc-100-spring-2024/ggfs/.github/workflows/gg-student.yml@main
+    uses: allegheny-college-cmpsc-100-spring-2024/ggfs/.github/workflows/gg-fs.yml@main
     secrets: inherit
     with:
       assignment: clone-commit-push
